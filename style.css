@@ -1,6 +1,6 @@
 body{
     margin:0;
-    background:#121212;
+    background:#ee56d5;
     color:white;
     font-family:Arial, Helvetica, sans-serif;
     display:flex;
@@ -10,11 +10,11 @@ body{
 }
 
 .container{
-    background:#1f1f1f;
+    background:#f118c2;
     padding:30px;
     border-radius:15px;
     width:350px;
-    box-shadow:0 0 20px rgba(0,0,0,.5);
+    box-shadow:0 0 20px rgba(240, 35, 212, 0.5);
 }
 
 h1{
